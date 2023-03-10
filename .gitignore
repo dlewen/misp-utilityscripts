@@ -1,0 +1,7 @@
+*.ini
+!config.example.ini
+*.sql
+*.csv
+*.txt
+__pycache__
+.~*
